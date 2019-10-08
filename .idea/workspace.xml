@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08fc2660-6f7e-4f33-9f90-64dbd4cc33ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson4/PermCheck.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4/FrogRiverOne.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson2/CyclicRotation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/CyclicRotation.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson2/OddOccurrencesInArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/OddOccurrencesInArray.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson3/FrogJmp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/FrogJmp.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson3/PermMissingElem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/PermMissingElem.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson3/TapeEquilibrium.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/TapeEquilibrium.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,20 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.lesson2.OddOccurrencesInArray">
-    <configuration name="lesson2.CyclicRotation" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="CodilityLessonsKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="lesson2.CyclicRotation" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.lesson4.FrogRiverOne">
     <configuration name="lesson2.OddOccurrencesInArray" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CodilityLessonsKotlin" />
       <option name="VM_PARAMETERS" />
@@ -96,6 +78,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lesson4.FrogRiverOne" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="CodilityLessonsKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="lesson4.FrogRiverOne" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="lesson4.PermCheck" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CodilityLessonsKotlin" />
       <option name="VM_PARAMETERS" />
@@ -111,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.lesson4.FrogRiverOne" />
         <item itemvalue="Kotlin.lesson2.OddOccurrencesInArray" />
         <item itemvalue="Kotlin.lesson4.PermCheck" />
         <item itemvalue="Kotlin.lesson3.PermMissingElem" />
         <item itemvalue="Kotlin.lesson3.FrogJmp" />
-        <item itemvalue="Kotlin.lesson2.CyclicRotation" />
       </list>
     </recent_temporary>
   </component>
