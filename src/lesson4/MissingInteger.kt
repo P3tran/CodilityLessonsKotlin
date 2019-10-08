@@ -4,7 +4,6 @@ package lesson4
 * Find the smallest int that the array does not contain
 **/
 
-
 class MissingInteger {
 
 
