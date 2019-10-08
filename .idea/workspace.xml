@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08fc2660-6f7e-4f33-9f90-64dbd4cc33ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson2/CyclicRotation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/FrogJmp.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson1/BinaryGap.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson1/BinaryGap.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson2/OddOccurrencesInArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/OddOccurrencesInArray.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.lesson2.CyclicRotation">
+  <component name="RunManager" selected="Kotlin.lesson3.FrogJmp">
     <configuration name="lesson1.BinaryGap" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CodilityLessonsKotlin" />
       <option name="VM_PARAMETERS" />
@@ -80,8 +78,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lesson3.FrogJmp" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="CodilityLessonsKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="lesson3.FrogJmp" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.lesson3.FrogJmp" />
         <item itemvalue="Kotlin.lesson2.CyclicRotation" />
         <item itemvalue="Kotlin.lesson2.OddOccurrencesInArray" />
         <item itemvalue="Kotlin.lesson1.BinaryGap" />
@@ -113,21 +125,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/lesson2/CyclicRotation.kt</url>
-          <line>28</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/lesson2/CyclicRotation.kt</url>
-          <line>27</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
