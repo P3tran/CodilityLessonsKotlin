@@ -1,5 +1,9 @@
 package lesson2
 
+/*
+* Find the element that exists only 1 time in the array
+* */
+
 class OddOccurrencesInArray {
 
     companion object {

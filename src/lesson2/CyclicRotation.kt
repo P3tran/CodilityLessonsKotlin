@@ -1,5 +1,9 @@
 package lesson2
 
+/*
+* Rotate the elements of an array
+* */
+
 class CyclicRotation {
 
     companion object {

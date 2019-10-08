@@ -2,6 +2,10 @@ package lesson3
 
 import kotlin.math.abs
 
+/*
+* Find the minimum difference between the slices of the array
+* */
+
 class TapeEquilibrium {
 
     companion object {

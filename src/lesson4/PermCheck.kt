@@ -1,10 +1,11 @@
-package lesson3
+package lesson4
 
-/*
-* Find the element that is missing from the array
-* */
+class PermCheck {
 
-class PermMissingElem {
+    /*
+    * Check is an array is a permutation.
+    * Contains all integers within the range size of the array only once.
+    * */
 
     companion object {
         @JvmStatic
@@ -16,16 +17,19 @@ class PermMissingElem {
 
         fun solution(A: IntArray): Int {
             val set = hashSetOf<Int>()
-            if(A.isEmpty())
-                return 1
-
             A.forEach {
-                set.add(it)
+                if (it > A.size)
+                    return 0
+                if (set.contains(it))
+                    return 0
+                else
+                    set.add(it)
             }
-            for (i in 1 .. A.size+1) {
+            for (i in 1..A.size) {
                 if(!set.contains(i))
-                    return i
+                    return 0
             }
+
             return 1
         }
     }

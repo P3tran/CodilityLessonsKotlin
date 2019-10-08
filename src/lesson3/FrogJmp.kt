@@ -1,5 +1,9 @@
 package lesson3
 
+/*
+* Find the minimum steps to cover distance.
+* */
+
 class FrogJmp {
 
     companion object {
