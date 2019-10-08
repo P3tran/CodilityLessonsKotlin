@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08fc2660-6f7e-4f33-9f90-64dbd4cc33ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/lesson3/PermMissingElem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/PermMissingElem.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/TapeEquilibrium.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
