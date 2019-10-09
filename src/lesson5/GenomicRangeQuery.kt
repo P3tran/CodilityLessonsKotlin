@@ -1,13 +1,13 @@
 package lesson5
 
-class GenomicRangeQuery {
-
-    /*
+/*
     * Calculate presence of minimum valued symbols in string.
     * Represent the data as occurrences array, calculate prefix sums
     * and subtract to find min valued item
     * */
 
+
+class GenomicRangeQuery {
     companion object {
         @JvmStatic
         fun main(args: Array<String>) {
