@@ -6,7 +6,7 @@ import java.util.*
 * find whether string parentheses open and close properly by using a stack
 * */
 
-class Distinct {
+class Nesting {
 
     companion object {
         @JvmStatic
