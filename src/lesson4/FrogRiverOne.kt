@@ -1,10 +1,10 @@
 package lesson4
 
-class FrogRiverOne {
+/*
+* Minimum time to complete the path of falling leafs
+* */
 
-    /*
-    * Minimum time to complete the path of falling leafs
-    * */
+class FrogRiverOne {
 
     companion object {
         @JvmStatic

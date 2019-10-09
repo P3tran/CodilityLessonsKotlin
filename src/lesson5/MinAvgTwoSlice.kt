@@ -6,6 +6,10 @@ import kotlin.math.min
 * Find the minimum slice sum average in an array
 * */
 
+/*
+* 100% solution is to find the minimum average by checking only 2 and 3 contiguous elements at a time.
+* */
+
 class MinAvgTwoSlice {
 
     companion object {
