@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08fc2660-6f7e-4f33-9f90-64dbd4cc33ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson6/MaxProductOfThree.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson4/FrogRiverOne.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/FrogRiverOne.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson5/MinAvgTwoSlice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson5/MinAvgTwoSlice.kt" afterDir="false" />
-    </list>
+    <list default="true" id="08fc2660-6f7e-4f33-9f90-64dbd4cc33ea" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +35,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.lesson6.MaxProductOfThree">
+  <component name="RunManager" selected="Kotlin.lesson6.Distinct">
     <configuration name="lesson5.CountDiv" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CodilityLessonsKotlin" />
       <option name="VM_PARAMETERS" />
@@ -80,14 +75,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson5.PassingCars" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson6.Distinct" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CodilityLessonsKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="lesson5.PassingCars" />
+      <option name="MAIN_CLASS_NAME" value="lesson6.Distinct" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.lesson6.Distinct" />
         <item itemvalue="Kotlin.lesson6.MaxProductOfThree" />
         <item itemvalue="Kotlin.lesson5.MinAvgTwoSlice" />
         <item itemvalue="Kotlin.lesson5.CountDiv" />
         <item itemvalue="Kotlin.lesson5.GenomicRangeQuery" />
-        <item itemvalue="Kotlin.lesson5.PassingCars" />
       </list>
     </recent_temporary>
   </component>
