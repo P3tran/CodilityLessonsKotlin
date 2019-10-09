@@ -5,7 +5,6 @@ package lesson6
 * Requires usage of long because adding Max Integer and storing it in Int will cause overflow.
 */
 
-
 class Triangle {
 
     companion object {
