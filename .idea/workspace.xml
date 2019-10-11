@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08fc2660-6f7e-4f33-9f90-64dbd4cc33ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson9/MaxSliceSum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson9/MaxDoubleSliceSum.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,20 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.lesson9.MaxSliceSum">
-    <configuration name="lesson7.StoneWall" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="CodilityLessonsKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="lesson7.StoneWall" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.lesson9.MaxDoubleSliceSum">
     <configuration name="lesson8.Dominator" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CodilityLessonsKotlin" />
       <option name="VM_PARAMETERS" />
@@ -73,6 +60,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="lesson8.EquiLeader" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson9.MaxDoubleSliceSum" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="CodilityLessonsKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="lesson9.MaxDoubleSliceSum" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.lesson9.MaxDoubleSliceSum" />
         <item itemvalue="Kotlin.lesson9.MaxSliceSum" />
         <item itemvalue="Kotlin.lesson9.MaxProfit" />
         <item itemvalue="Kotlin.lesson8.EquiLeader" />
         <item itemvalue="Kotlin.lesson8.Dominator" />
-        <item itemvalue="Kotlin.lesson7.StoneWall" />
       </list>
     </recent_temporary>
   </component>
