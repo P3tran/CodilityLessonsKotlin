@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08fc2660-6f7e-4f33-9f90-64dbd4cc33ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/PascalTree.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/PascalTriangle2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson10/Flags.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.lesson10.Peaks">
+  <component name="RunManager" selected="Kotlin.lesson10.Flags">
     <configuration name="lesson10.CountFactors" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CodilityLessonsKotlin" />
       <option name="VM_PARAMETERS" />
@@ -48,6 +47,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="lesson10.CountFactors" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson10.Flags" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="CodilityLessonsKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="lesson10.Flags" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,26 +104,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson9.MaxSliceSum" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="CodilityLessonsKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="lesson9.MaxSliceSum" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.lesson10.Flags" />
         <item itemvalue="Kotlin.lesson10.Peaks" />
         <item itemvalue="Kotlin.lesson10.MinPerimeterRectangle" />
         <item itemvalue="Kotlin.lesson10.CountFactors" />
         <item itemvalue="Kotlin.lesson9.MaxDoubleSliceSum" />
-        <item itemvalue="Kotlin.lesson9.MaxSliceSum" />
       </list>
     </recent_temporary>
   </component>
@@ -145,19 +144,19 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/lesson10/Peaks.kt</url>
-          <line>47</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/src/lesson10/Flags.kt</url>
+          <line>30</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/lesson10/Peaks.kt</url>
-          <line>50</line>
-          <option name="timeStamp" value="4" />
+          <url>file://$PROJECT_DIR$/src/lesson10/Flags.kt</url>
+          <line>32</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/lesson10/Peaks.kt</url>
-          <line>55</line>
-          <option name="timeStamp" value="5" />
+          <url>file://$PROJECT_DIR$/src/lesson10/Flags.kt</url>
+          <line>29</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
