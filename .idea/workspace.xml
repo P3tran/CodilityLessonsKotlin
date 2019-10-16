@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08fc2660-6f7e-4f33-9f90-64dbd4cc33ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson14/NailingPlanks.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tree/PreorderTraversal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson14/MinMaxDivision.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson5/CountDiv.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson5/CountDiv.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.lesson10.Flags">
+  <component name="RunManager" selected="Kotlin.lesson14.MinMaxDivision">
     <configuration name="lesson10.CountFactors" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CodilityLessonsKotlin" />
       <option name="VM_PARAMETERS" />
@@ -92,14 +94,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson9.MaxDoubleSliceSum" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson14.MinMaxDivision" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CodilityLessonsKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="lesson9.MaxDoubleSliceSum" />
+      <option name="MAIN_CLASS_NAME" value="lesson14.MinMaxDivision" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.lesson14.MinMaxDivision" />
         <item itemvalue="Kotlin.lesson10.Flags" />
         <item itemvalue="Kotlin.lesson10.Peaks" />
         <item itemvalue="Kotlin.lesson10.MinPerimeterRectangle" />
         <item itemvalue="Kotlin.lesson10.CountFactors" />
-        <item itemvalue="Kotlin.lesson9.MaxDoubleSliceSum" />
       </list>
     </recent_temporary>
   </component>

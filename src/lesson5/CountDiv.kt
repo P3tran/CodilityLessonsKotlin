@@ -17,12 +17,12 @@ class CountDiv {
             var divisors = 0
 
             if (K > B) {
-                return if (A === 0 || B === 0) {
+                return if (A == 0 || B == 0) {
                     1
                 } else 0
             }
 
-            if (A === 0) {
+            if (A == 0) {
                 divisors++
             }
 
