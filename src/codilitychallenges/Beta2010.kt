@@ -1,34 +1,33 @@
-package lesson6
+package codilitychallenges
 
 /*
-* Check whether the discs intersect
+* Find the number of disc intersections
 * */
 
-class NumberOfDiscIntersections {
+class Beta2010 {
 
     companion object {
         @JvmStatic
         fun main(args: Array<String>) {
-            val result = solution(intArrayOf(10, 10, 10, 5, 5, 12, 60, 13, 7, 10, 10, 10, 10))
+            val result =
+                solution(intArrayOf(2, 2, 1, 0, 1))
             println("result :  $result")
-
         }
 
         fun solution(A: IntArray): Int {
-            var counter = 0
             if (A.size < 2)
                 return 0
-
+            var intersections = 0
             for (i in 0 until A.size - 1) {
                 for (j in i + 1 until A.size) {
-                    if ((A[i].toLong() + A[j].toLong()) >= j - i) {
-                        counter++
-                        if (counter > 10000000)
+                    if (A[i] + A[j] >= j - i) {
+                        intersections++
+                        if (intersections > 10000000)
                             return -1
                     }
                 }
             }
-            return counter
+            return intersections
         }
     }
 }
