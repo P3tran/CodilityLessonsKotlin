@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08fc2660-6f7e-4f33-9f90-64dbd4cc33ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codilitychallenges/Technetiu_2019.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codilitychallenges/Technetium2019.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codilitychallenges/Technetium_2019.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codilitychallenges/Alpha2010.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,15 +39,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.codilitychallenges.Technetium_2019">
-    <configuration name="codilitychallenges.Technetium_2019" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.codilitychallenges.Alpha2010">
+    <configuration name="codilitychallenges.Alpha2010" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CodilityLessonsKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="codilitychallenges.Technetium_2019" />
+      <option name="MAIN_CLASS_NAME" value="codilitychallenges.Alpha2010" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="codilitychallenges.Technetium2019" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="CodilityLessonsKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="codilitychallenges.Technetium2019" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,19 +92,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson10.Flags" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="CodilityLessonsKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="lesson10.Flags" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="lesson14.MinMaxDivision" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CodilityLessonsKotlin" />
       <option name="VM_PARAMETERS" />
@@ -109,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.codilitychallenges.Technetium_2019" />
+        <item itemvalue="Kotlin.codilitychallenges.Alpha2010" />
+        <item itemvalue="Kotlin.codilitychallenges.Technetium2019" />
         <item itemvalue="Kotlin.codilitychallenges.Technetium_20199" />
         <item itemvalue="Kotlin.indeed2016.RectangleBuilderGreaterArea" />
         <item itemvalue="Kotlin.lesson14.MinMaxDivision" />
-        <item itemvalue="Kotlin.lesson10.Flags" />
       </list>
     </recent_temporary>
   </component>
